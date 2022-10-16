@@ -1,0 +1,43 @@
+.navbar-collapse .dropdown-toggle {
+    color: #ffffff;
+    margin: auto
+}
+
+.nav-item{
+    color: #ffffff;
+    margin: auto;
+}
+
+.masthead .navbar-collapse img {
+    width:30px;
+    height:30px;
+    object-fit:cover;
+    margin: auto;
+    border-radius: 50%;
+    
+}
+
+.header-top .dropdown-menu {
+    border: medium none;
+    left: -85px;
+    padding: 17px;
+    margin: auto
+}
+
+.navbar-brand img{
+    width:30px;
+    height:30px;
+    object-fit:cover;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.masthead {
+    margin-bottom: 10px;
+    background-color: purple !important;
+  }
+
+  html *
+  {
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
